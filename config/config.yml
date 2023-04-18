@@ -1,0 +1,11 @@
+currencyapi:
+  apiKey: SavJMdbMvKccDITRYFVuCCnXHZCoaoUUpKPQorDD
+  urlLatesRates: https://api.currencyapi.com/v3/latest
+  intervalCall: 3
+  timeoutCall: 5
+database:
+  host: localhost
+  port: 5432
+  user: postgres
+  name: boletia
+  password: 123456
